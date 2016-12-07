@@ -2,13 +2,10 @@
     
     "name": "Misterakson/yii2-google-analytics",
     
-
-   
     "type": "yii2-extension",
     
-
     "description": "Google Analytics Widget for the Yii2 framework"
-    "keywords": ["yii2", "google", "analytics", "widget"],
+    "keywords": ["yii2", "google", "analytics", "module"],
     "support": {
         "source": "https://github.com/misterakson/yii2"
     },
