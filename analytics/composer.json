@@ -1,9 +1,9 @@
 {
-    // название пакета
+    
     "name": "Misterakson/yii2-google-analytics",
     
 
-    // тип пакета
+   
     "type": "yii2-extension",
     
 
@@ -19,12 +19,12 @@
         }
     ],
 
-    // зависимости пакета
+
     "require": {
         "yiisoft/yii2": "~2.0.0",
     },
 
-    // указание автозагрузчика классов
+
     "autoload": {
         "psr-4": {
             "yii\\misterakson\\googleanalytics": ""
