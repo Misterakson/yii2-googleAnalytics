@@ -1,6 +1,6 @@
 <?php
 
-namespace backend\modules\analytics\widgets;
+namespace misterakson\analytics\widgets;
 
 use Yii;
 use yii\base\Exception;
