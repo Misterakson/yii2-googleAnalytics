@@ -1,6 +1,6 @@
 <?php
 
-namespace backend\modules\analytics\controllers;
+namespace misterakson\analytics\analytics\controllers;
 
 use yii\web\Controller;
 
