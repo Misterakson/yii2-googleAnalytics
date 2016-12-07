@@ -1,0 +1,33 @@
+{
+    // название пакета
+    "name": "Misterakson/yii2-google-analytics",
+    
+
+    // тип пакета
+    "type": "yii2-extension",
+    
+
+    "description": "Google Analytics Widget for the Yii2 framework"
+    "keywords": ["yii2", "google", "analytics", "widget"],
+    "support": {
+        "source": "https://github.com/misterakson/yii2"
+    },
+    "authors": [
+        {
+            "name": "Merenkov Konstantin",
+            "email": "merenkovkonst@gmail.com"
+        }
+    ],
+
+    // зависимости пакета
+    "require": {
+        "yiisoft/yii2": "~2.0.0",
+    },
+
+    // указание автозагрузчика классов
+    "autoload": {
+        "psr-4": {
+            "yii\\misterakson\\googleanalytics": ""
+        }
+    }
+}
