@@ -1,6 +1,6 @@
 <?php
 
-namespace backend\modules\analytics;
+namespace misterakson\analytics;
 
 /**
  * analytics module definition class
@@ -10,7 +10,7 @@ class Module extends \yii\base\Module
     /**
      * @inheritdoc
      */
-    public $controllerNamespace = 'backend\modules\analytics\controllers';
+    public $controllerNamespace = 'misterakson\analytics\controllers';
 
     /**
      * @inheritdoc
